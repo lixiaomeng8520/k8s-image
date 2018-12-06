@@ -1,0 +1,1 @@
+FROM    kube-state-metrics:v1.3.1
